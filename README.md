@@ -1,5 +1,10 @@
 # babel-plugin-transform-stitches-display-name
 
+<p align="center">
+<img src="https://img.shields.io/npm/dm/babel-plugin-transform-stitches-display-name" />
+<img src="https://img.shields.io/npm/v/babel-plugin-transform-stitches-display-name" />
+<img src="https://img.shields.io/github/license/afzalsayed96/babel-plugin-transform-stitches-display-name" />
+</p>
 Babel plugin to add displayName to your styled component
 
 ## Input
