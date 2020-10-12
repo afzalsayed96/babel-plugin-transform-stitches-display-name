@@ -71,8 +71,7 @@ export default declare(api => {
                 return true
               }
             }
-          }
-          if (path.isAssignmentExpression()) {
+          } else if (path.isAssignmentExpression()) {
             id = path.node.left;
           } else if (path.isObjectProperty()) {
             id = path.node.key;
