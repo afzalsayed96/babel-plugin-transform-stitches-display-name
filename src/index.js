@@ -1,3 +1,4 @@
+// Adapted from https://github.com/babel/babel/tree/main/packages/babel-plugin-transform-react-display-name
 import { declare } from "@babel/helper-plugin-utils";
 import path from "path";
 import { types as t } from "@babel/core";
